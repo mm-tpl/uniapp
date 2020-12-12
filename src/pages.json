@@ -1,0 +1,16 @@
+{
+	"pages": [
+		{
+			"path": "pages/pg001/pg001",
+			"style": {
+				"navigationBarTitleText": "pg001"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
