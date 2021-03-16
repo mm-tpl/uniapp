@@ -1,5 +1,5 @@
 <template>
-	<view></view>
+	<view>零壹微工厂</view>
 </template>
 <script lang="ts">
 import vue from 'vue';
